@@ -1,0 +1,10 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "eth-gas-reporter": "^0.2.27",
+    "hardhat": "^2.12.7",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
